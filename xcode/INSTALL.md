@@ -2,13 +2,14 @@
 
 #### Install manually
 
-1. Create the custom themes folder:
+1.  Create the custom themes folder:
 
-	```
-$ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-	```
+        ```
 
-2. Move `Dracula Pro.xccolortheme` file to this custom themes folder.
+    $ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    ```
+
+2.  Move `Dracula Pro.xccolortheme` file to this custom themes folder.
 
 #### Activating theme
 

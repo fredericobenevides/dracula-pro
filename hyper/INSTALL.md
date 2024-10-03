@@ -1,17 +1,17 @@
 ### [Hyper](https://hyper.is/)
 
-#### Install
+#### Installation
 
-1. Copy theme folder
-2. Paste theme folder into `~/.hyper_plugins/local`
-3. Open `~/.hyper.js` file
-4. Add `dracula-pro` to the local plugins list
+1. Copy the desired variant or all variants from the `variants` folder;
+2. Paste them into `~/.hyper_plugins/local`;
+3. Open the `~/.hyper.js` file;
+4. Add the desired variant to the local plugins list like this:
 
-    localPlugins: [
-    	"dracula-pro"
-    ]
+```js
+localPlugins: ["dracula-pro"];
+```
 
 #### Activating theme
 
-1.  Start Hyper
-2.  Go to `View -> Full Reload`
+1. Start or restart Hyper;
+2. Boom, it's working! 😊

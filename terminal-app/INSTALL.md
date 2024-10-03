@@ -1,4 +1,4 @@
-### [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS))
+### [Terminal.app](<https://en.wikipedia.org/wiki/Terminal_(macOS)>)
 
 #### Activating theme
 

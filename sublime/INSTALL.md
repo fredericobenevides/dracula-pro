@@ -1,4 +1,4 @@
-### [Sublime Text](https://www.sublimetext.com/)
+### [Sublime Text](https://www.sublimetext.com)
 
 #### Install
 
@@ -8,5 +8,5 @@
 
 #### Activating theme
 
-1. Go to `Preferences -> Theme...` and select the `Adaptive`.
-2. Go to `Preferences -> Color Scheme...` and select the `Dracula Pro`.
+1. Go to `Preferences -> Select Theme...` and select the `Adaptive`.
+2. Go to `Preferences -> Select Color Scheme...` and select the `Dracula Pro` color scheme of your choice.
