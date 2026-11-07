@@ -1,0 +1,23 @@
+{
+  "name": "Dracula Pro Nosferatu",
+  "cursorColor": "#9EA4AC",
+  "selectionBackground": "#2E3236",
+  "background": "#17191B",
+  "black": "#17191B",
+  "blue": "#B3A6BC",
+  "brightBlack": "#32363A",
+  "brightBlue": "#A6BACB",
+  "brightCyan": "#BFD0D4",
+  "brightGreen": "#B3C49C",
+  "brightPurple": "#D4A6B6",
+  "brightRed": "#FF9582",
+  "brightWhite": "#F7F4ED",
+  "brightYellow": "#F7D98A",
+  "cyan": "#8FA9B4",
+  "foreground": "#D2D0CB",
+  "green": "#D0DBC4",
+  "purple": "#EE9440",
+  "red": "#FF7D6C",
+  "white": "#D2D0CB",
+  "yellow": "#F2C861"
+}

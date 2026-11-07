@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Dracula PRO - Alucard",
+  "description": "Premium light theme for Chrome",
+  "version": "1.0.0",
+  "theme": {
+    "colors": {
+      "frame": [245, 245, 245],
+      "frame_inactive": [245, 245, 245],
+      "frame_incognito": [207, 207, 222],
+      "frame_incognito_inactive": [207, 207, 222],
+      "background_tab": [245, 245, 245],
+      "background_tab_inactive": [245, 245, 245],
+      "background_tab_incognito": [245, 245, 245],
+      "background_tab_incognito_inactive": [245, 245, 245],
+      "bookmark_text": [31, 31, 31],
+      "tab_text": [31, 31, 31],
+      "tab_background_text": [99, 93, 151],
+      "tab_background_text_inactive": [99, 93, 151],
+      "tab_background_text_incognito": [99, 93, 151],
+      "tab_background_text_incognito_inactive": [99, 93, 151],
+      "toolbar": [207, 207, 222],
+      "toolbar_text": [31, 31, 31],
+      "toolbar_button_icon": [99, 93, 151],
+      "omnibox_text": [99, 93, 151],
+      "omnibox_background": [245, 245, 245],
+      "ntp_background": [245, 245, 245],
+      "ntp_header": [207, 207, 222],
+      "ntp_link": [100, 74, 201],
+      "ntp_text": [31, 31, 31],
+      "button_background": [207, 207, 222]
+    }
+  }
+}

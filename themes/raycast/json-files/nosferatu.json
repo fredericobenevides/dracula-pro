@@ -1,0 +1,21 @@
+{
+  "appearance": "dark",
+  "name": "Dracula PRO - Nosferatu",
+  "version": "1",
+  "author": "Lucas de França",
+  "authorUsername": "luxonauta",
+  "colors": {
+    "background": "#17191B",
+    "backgroundSecondary": "#17191B",
+    "text": "#D2D0CB",
+    "selection": "#9EA4AC",
+    "loader": "#2E3236",
+    "red": "#FF7D6C",
+    "orange": "#C9A273",
+    "yellow": "#F2C861",
+    "green": "#D0DBC4",
+    "blue": "#8FA9B4",
+    "purple": "#B3A6BC",
+    "magenta": "#EE9440"
+  }
+}
